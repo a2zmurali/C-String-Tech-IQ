@@ -1,0 +1,73 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34902.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "duplicate characters in a string", "MRL UPS\duplicate characters in a string.csproj", "{4AD4E0C3-3315-4439-AC12-800A846A74D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unique characters in a string", "unique characters in a string\unique characters in a string.csproj", "{C1F17C0D-C90A-49B6-BA04-4A91E5FEEFC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse a string", "Reverse a string\Reverse a string.csproj", "{1AE33175-C431-4D53-8EF5-5CB3DC41286C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse each word of the sentence", "Reverse each word of the sentence\Reverse each word of the sentence.csproj", "{95902FEF-2996-4657-B2DE-1114F7DAA585}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "palindrome", "palindrome\palindrome.csproj", "{5A1016B9-B91C-43FC-B30E-ED0CD904793D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "maximum occurrence in a string", "maximum occurrence in a string\maximum occurrence in a string.csproj", "{BCE460D4-1FE1-458A-A4A8-89114711EA41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "capitalize the first character of each word", "capitalize the first character of each word\capitalize the first character of each word.csproj", "{D3A49ED3-D029-4B3A-ADCE-E619663E209C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Get all possible substrings in a string", "Get all possible substrings in a string\Get all possible substrings in a string.csproj", "{13DA1034-4B07-45EB-A94D-F0A75368E90D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove non-alphanumeric characters", "Remove non-alphanumeric characters\Remove non-alphanumeric characters.csproj", "{E0A34B61-A1CC-47F9-8B4C-038B5B4C892A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AD4E0C3-3315-4439-AC12-800A846A74D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AD4E0C3-3315-4439-AC12-800A846A74D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AD4E0C3-3315-4439-AC12-800A846A74D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AD4E0C3-3315-4439-AC12-800A846A74D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1F17C0D-C90A-49B6-BA04-4A91E5FEEFC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1F17C0D-C90A-49B6-BA04-4A91E5FEEFC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1F17C0D-C90A-49B6-BA04-4A91E5FEEFC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1F17C0D-C90A-49B6-BA04-4A91E5FEEFC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AE33175-C431-4D53-8EF5-5CB3DC41286C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AE33175-C431-4D53-8EF5-5CB3DC41286C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AE33175-C431-4D53-8EF5-5CB3DC41286C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AE33175-C431-4D53-8EF5-5CB3DC41286C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95902FEF-2996-4657-B2DE-1114F7DAA585}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95902FEF-2996-4657-B2DE-1114F7DAA585}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95902FEF-2996-4657-B2DE-1114F7DAA585}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95902FEF-2996-4657-B2DE-1114F7DAA585}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A1016B9-B91C-43FC-B30E-ED0CD904793D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A1016B9-B91C-43FC-B30E-ED0CD904793D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A1016B9-B91C-43FC-B30E-ED0CD904793D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A1016B9-B91C-43FC-B30E-ED0CD904793D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCE460D4-1FE1-458A-A4A8-89114711EA41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCE460D4-1FE1-458A-A4A8-89114711EA41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCE460D4-1FE1-458A-A4A8-89114711EA41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCE460D4-1FE1-458A-A4A8-89114711EA41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3A49ED3-D029-4B3A-ADCE-E619663E209C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3A49ED3-D029-4B3A-ADCE-E619663E209C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3A49ED3-D029-4B3A-ADCE-E619663E209C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3A49ED3-D029-4B3A-ADCE-E619663E209C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13DA1034-4B07-45EB-A94D-F0A75368E90D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13DA1034-4B07-45EB-A94D-F0A75368E90D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13DA1034-4B07-45EB-A94D-F0A75368E90D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13DA1034-4B07-45EB-A94D-F0A75368E90D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0A34B61-A1CC-47F9-8B4C-038B5B4C892A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0A34B61-A1CC-47F9-8B4C-038B5B4C892A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0A34B61-A1CC-47F9-8B4C-038B5B4C892A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0A34B61-A1CC-47F9-8B4C-038B5B4C892A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22C0FACB-309D-45AA-8111-2EEDD678F928}
+	EndGlobalSection
+EndGlobal
