@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Get all possible substrings
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove non-alphanumeric characters", "Remove non-alphanumeric characters\Remove non-alphanumeric characters.csproj", "{E0A34B61-A1CC-47F9-8B4C-038B5B4C892A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse an array", "Reverse an array\Reverse an array.csproj", "{8A14AEBC-0A66-43A8-9A9A-16AE1301EE61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sort an array", "Sort an array\Sort an array.csproj", "{5F59CDFA-9175-4DAE-A159-8A10746834E1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{E0A34B61-A1CC-47F9-8B4C-038B5B4C892A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E0A34B61-A1CC-47F9-8B4C-038B5B4C892A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E0A34B61-A1CC-47F9-8B4C-038B5B4C892A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A14AEBC-0A66-43A8-9A9A-16AE1301EE61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A14AEBC-0A66-43A8-9A9A-16AE1301EE61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A14AEBC-0A66-43A8-9A9A-16AE1301EE61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A14AEBC-0A66-43A8-9A9A-16AE1301EE61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F59CDFA-9175-4DAE-A159-8A10746834E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F59CDFA-9175-4DAE-A159-8A10746834E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F59CDFA-9175-4DAE-A159-8A10746834E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F59CDFA-9175-4DAE-A159-8A10746834E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
