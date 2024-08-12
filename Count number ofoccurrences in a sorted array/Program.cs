@@ -51,7 +51,7 @@ namespace Count_number_ofoccurrences_in_a_sorted_array
                 }
                 else
                 {
-                    Dic[i] += 1;
+                    Dic[i] ++;
                 }
             }
 

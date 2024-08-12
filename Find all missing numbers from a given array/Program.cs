@@ -10,7 +10,7 @@ namespace Find_all_missing_numbers_from_a_given_array
     {
         static void Main(string[] args)
         {
-            int[] array = { 1, 3, 5, 5, 7 };
+            int[] array = { 1, 3, 9 , 5, 5, 7 };
             int temp = 0;
 
             //sort the array
